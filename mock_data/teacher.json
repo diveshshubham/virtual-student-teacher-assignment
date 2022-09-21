@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "632797d003371eabd4d8d3f3"
+  },
+  "teacherName": "Sanjana",
+  "teacherMail": "divesh.shubham154+11@gmail.com",
+  "hash": "$2a$10$5NMjBmcADc56KDNbjv3Bfe.aKicXOlxw5fp1U7vgMlYJcf5ROOeDu",
+  "gender": "FEMALE",
+  "avatar": "https://storage.googleapis.com/download/storage/v1/b/minisocialmedia-1c24f.appspot.com/o/Screenshot%20from%202022-09-16%2002-17-06.png?generation=1663274855653613&alt=media",
+  "about": "T1",
+  "dob": {
+    "$date": "1990-01-09T00:00:00Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-18T22:12:32.190Z"
+  },
+  "createdAt": {
+    "$date": "2022-09-18T22:12:32.190Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6327999903371eabd4d8d3f6"
+  },
+  "teacherName": "Shubham",
+  "teacherMail": "divesh.shubham154+12@gmail.com",
+  "hash": "$2a$10$C9kNuB7be2orVN.lDtqPeOqM3dd1Q3k2XBWg6SOuuDglCi4uZGCC6",
+  "gender": "MALE",
+  "avatar": "https://storage.googleapis.com/download/storage/v1/b/minisocialmedia-1c24f.appspot.com/o/Screenshot%20from%202022-09-16%2002-17-06.png?generation=1663539582703582&alt=media",
+  "about": "T1",
+  "dob": {
+    "$date": "1990-01-09T00:00:00Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-18T22:20:09.288Z"
+  },
+  "createdAt": {
+    "$date": "2022-09-18T22:20:09.288Z"
+  },
+  "__v": 0
+}]

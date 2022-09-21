@@ -1,0 +1,241 @@
+[{
+  "_id": {
+    "$oid": "63279cb903371eabd4d8d3fe"
+  },
+  "studentName": "Vicky",
+  "studentMail": "divesh.shubham+1@gmail.com",
+  "gender": "MALE",
+  "about": "s1 ",
+  "avatar": "https://storage.googleapis.com/download/storage/v1/b/minisocialmedia-1c24f.appspot.com/o/Screenshot%20from%202022-09-16%2002-17-06.png?generation=1663539582703582&alt=media",
+  "dob": {
+    "$date": "1990-09-09T00:00:00Z"
+  },
+  "hash": "$2a$10$sTZjO1De6I0en6vj9kA1GOIHxfYHAMIZXwdX..9NTi8tt1EP8cLka",
+  "updatedAt": {
+    "$date": "2022-09-18T22:33:29.088Z"
+  },
+  "createdAt": {
+    "$date": "2022-09-18T22:33:29.088Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63279cd903371eabd4d8d401"
+  },
+  "studentName": "Sanya",
+  "studentMail": "divesh.shubham+2@gmail.com",
+  "gender": "FEMALE",
+  "about": "s2 ",
+  "avatar": "https://storage.googleapis.com/download/storage/v1/b/minisocialmedia-1c24f.appspot.com/o/Screenshot%20from%202022-09-16%2002-17-06.png?generation=1663539582703582&alt=media",
+  "dob": {
+    "$date": "1990-09-09T00:00:00Z"
+  },
+  "hash": "$2a$10$RdbKDKmVM/JA9EFEn3x.CuiDnqLs42ltVJ9Mj1L8bXF.Ca9i2rsnG",
+  "updatedAt": {
+    "$date": "2022-09-18T22:34:01.849Z"
+  },
+  "createdAt": {
+    "$date": "2022-09-18T22:34:01.849Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63279cfd03371eabd4d8d404"
+  },
+  "studentName": "sheetal",
+  "studentMail": "divesh.shubham+3@gmail.com",
+  "gender": "FEMALE",
+  "about": "s3 ",
+  "avatar": "https://storage.googleapis.com/download/storage/v1/b/minisocialmedia-1c24f.appspot.com/o/Screenshot%20from%202022-09-16%2002-17-06.png?generation=1663539582703582&alt=media",
+  "dob": {
+    "$date": "1990-09-09T00:00:00Z"
+  },
+  "hash": "$2a$10$d3lOCka44rSbBSExB66yB..YvZjk/cjTTaTfbyk2cveADM6lZmUJ2",
+  "updatedAt": {
+    "$date": "2022-09-18T22:34:37.250Z"
+  },
+  "createdAt": {
+    "$date": "2022-09-18T22:34:37.250Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63279d0c03371eabd4d8d407"
+  },
+  "studentName": "rahul",
+  "studentMail": "divesh.shubham+4@gmail.com",
+  "gender": "FEMALE",
+  "about": "s4 ",
+  "avatar": "https://storage.googleapis.com/download/storage/v1/b/minisocialmedia-1c24f.appspot.com/o/Screenshot%20from%202022-09-16%2002-17-06.png?generation=1663539582703582&alt=media",
+  "dob": {
+    "$date": "1990-09-09T00:00:00Z"
+  },
+  "hash": "$2a$10$H6Ink8zrmwn8DbMxAOlefenaNOP7Ce.pp5852qpoLNbhzcRT7Gc/W",
+  "updatedAt": {
+    "$date": "2022-09-18T22:34:52.606Z"
+  },
+  "createdAt": {
+    "$date": "2022-09-18T22:34:52.606Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63279d1b03371eabd4d8d40a"
+  },
+  "studentName": "ankit",
+  "studentMail": "divesh.shubham+5@gmail.com",
+  "gender": "MALE",
+  "about": "s5 ",
+  "avatar": "https://storage.googleapis.com/download/storage/v1/b/minisocialmedia-1c24f.appspot.com/o/Screenshot%20from%202022-09-16%2002-17-06.png?generation=1663539582703582&alt=media",
+  "dob": {
+    "$date": "1990-09-09T00:00:00Z"
+  },
+  "hash": "$2a$10$MI.SK8FTPaWyd/kQ2B9EduzTrubSLsP8NzY45P9BIB1CkTN4rTWJK",
+  "updatedAt": {
+    "$date": "2022-09-18T22:35:07.835Z"
+  },
+  "createdAt": {
+    "$date": "2022-09-18T22:35:07.835Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63279d2c03371eabd4d8d40d"
+  },
+  "studentName": "vishal",
+  "studentMail": "divesh.shubham+6@gmail.com",
+  "gender": "MALE",
+  "about": "s6 ",
+  "avatar": "https://storage.googleapis.com/download/storage/v1/b/minisocialmedia-1c24f.appspot.com/o/Screenshot%20from%202022-09-16%2002-17-06.png?generation=1663539582703582&alt=media",
+  "dob": {
+    "$date": "1990-09-09T00:00:00Z"
+  },
+  "hash": "$2a$10$HqJQn/LCSPtk.I42wQByYewHZzgS6s6EGi4NMsTIfiil5kIzJ2I3e",
+  "updatedAt": {
+    "$date": "2022-09-18T22:35:24.684Z"
+  },
+  "createdAt": {
+    "$date": "2022-09-18T22:35:24.684Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63279d3f03371eabd4d8d410"
+  },
+  "studentName": "sanju",
+  "studentMail": "divesh.shubham+7@gmail.com",
+  "gender": "MALE",
+  "about": "s7 ",
+  "avatar": "https://storage.googleapis.com/download/storage/v1/b/minisocialmedia-1c24f.appspot.com/o/Screenshot%20from%202022-09-16%2002-17-06.png?generation=1663539582703582&alt=media",
+  "dob": {
+    "$date": "1990-09-09T00:00:00Z"
+  },
+  "hash": "$2a$10$EuVFqntqOrOpjVHI/kkhme.S8QzX66ercitMWHhtae.yJhdaKuRn6",
+  "updatedAt": {
+    "$date": "2022-09-18T22:35:43.250Z"
+  },
+  "createdAt": {
+    "$date": "2022-09-18T22:35:43.250Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63279d6503371eabd4d8d413"
+  },
+  "studentName": "visahali",
+  "studentMail": "divesh.shubham+8@gmail.com",
+  "gender": "FEMALE",
+  "about": "s8 ",
+  "avatar": "https://storage.googleapis.com/download/storage/v1/b/minisocialmedia-1c24f.appspot.com/o/Screenshot%20from%202022-09-16%2002-17-06.png?generation=1663539582703582&alt=media",
+  "dob": {
+    "$date": "1990-09-09T00:00:00Z"
+  },
+  "hash": "$2a$10$4/Ev00QWEGVtG017lsgwROnlox5b9EvZdG0HMH/lGx5bKzxUsxrq6",
+  "updatedAt": {
+    "$date": "2022-09-18T22:36:21.069Z"
+  },
+  "createdAt": {
+    "$date": "2022-09-18T22:36:21.069Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63279d7303371eabd4d8d416"
+  },
+  "studentName": "varsha",
+  "studentMail": "divesh.shubham+9@gmail.com",
+  "gender": "FEMALE",
+  "about": "s9 ",
+  "avatar": "https://storage.googleapis.com/download/storage/v1/b/minisocialmedia-1c24f.appspot.com/o/Screenshot%20from%202022-09-16%2002-17-06.png?generation=1663539582703582&alt=media",
+  "dob": {
+    "$date": "1990-09-09T00:00:00Z"
+  },
+  "hash": "$2a$10$/whOlQplWFmV8hI0u2JtfOC8l6uUFJdGQce8HkIdKIAnpqEdOcmMW",
+  "updatedAt": {
+    "$date": "2022-09-18T22:36:35.057Z"
+  },
+  "createdAt": {
+    "$date": "2022-09-18T22:36:35.057Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63279d8203371eabd4d8d419"
+  },
+  "studentName": "madhu",
+  "studentMail": "divesh.shubham+10@gmail.com",
+  "gender": "FEMALE",
+  "about": "s10 ",
+  "avatar": "https://storage.googleapis.com/download/storage/v1/b/minisocialmedia-1c24f.appspot.com/o/Screenshot%20from%202022-09-16%2002-17-06.png?generation=1663539582703582&alt=media",
+  "dob": {
+    "$date": "1990-09-09T00:00:00Z"
+  },
+  "hash": "$2a$10$Z5R2LY0zP2zUQXv.DQCMb.IVQ/dahnFWpv2S1qaxxQfQfoTov.s0u",
+  "updatedAt": {
+    "$date": "2022-09-18T22:36:50.584Z"
+  },
+  "createdAt": {
+    "$date": "2022-09-18T22:36:50.584Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63279d9203371eabd4d8d41c"
+  },
+  "studentName": "sakshi",
+  "studentMail": "divesh.shubham+11@gmail.com",
+  "gender": "FEMALE",
+  "about": "s11 ",
+  "avatar": "https://storage.googleapis.com/download/storage/v1/b/minisocialmedia-1c24f.appspot.com/o/Screenshot%20from%202022-09-16%2002-17-06.png?generation=1663539582703582&alt=media",
+  "dob": {
+    "$date": "1990-09-09T00:00:00Z"
+  },
+  "hash": "$2a$10$gACInwE5sq.o4To8tX9jsOzC46px1Ip.zgIhIKbEWKPjciMqZ6iOe",
+  "updatedAt": {
+    "$date": "2022-09-18T22:37:06.235Z"
+  },
+  "createdAt": {
+    "$date": "2022-09-18T22:37:06.235Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63279d9f03371eabd4d8d41f"
+  },
+  "studentName": "shivali",
+  "studentMail": "divesh.shubham+12@gmail.com",
+  "gender": "FEMALE",
+  "about": "s12 ",
+  "avatar": "https://storage.googleapis.com/download/storage/v1/b/minisocialmedia-1c24f.appspot.com/o/Screenshot%20from%202022-09-16%2002-17-06.png?generation=1663539582703582&alt=media",
+  "dob": {
+    "$date": "1990-09-09T00:00:00Z"
+  },
+  "hash": "$2a$10$orx7WLPnD30lE6VQAj50QeAaAzQ2Xxrv5bJh9bbWNXJuUpHaLPTCK",
+  "updatedAt": {
+    "$date": "2022-09-18T22:37:19.481Z"
+  },
+  "createdAt": {
+    "$date": "2022-09-18T22:37:19.481Z"
+  },
+  "__v": 0
+}]

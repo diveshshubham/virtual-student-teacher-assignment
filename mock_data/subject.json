@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "6327a00603371eabd4d8d424"
+  },
+  "subjectName": "DATA STRUCTURE",
+  "updatedAt": {
+    "$date": "2022-09-18T22:47:34.476Z"
+  },
+  "createdAt": {
+    "$date": "2022-09-18T22:47:34.476Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6327a01903371eabd4d8d426"
+  },
+  "subjectName": "FLUID MECHANICS",
+  "updatedAt": {
+    "$date": "2022-09-18T22:47:53.230Z"
+  },
+  "createdAt": {
+    "$date": "2022-09-18T22:47:53.230Z"
+  },
+  "__v": 0
+}]

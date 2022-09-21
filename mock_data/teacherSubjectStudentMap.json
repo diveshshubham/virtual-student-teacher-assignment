@@ -1,0 +1,295 @@
+[{
+  "_id": {
+    "$oid": "6327a09503371eabd4d8d428"
+  },
+  "teacherId": {
+    "$oid": "632797d003371eabd4d8d3f3"
+  },
+  "subjectId": {
+    "$oid": "6327a00603371eabd4d8d424"
+  },
+  "studentId": {
+    "$oid": "63279cb903371eabd4d8d3fe"
+  },
+  "isActive": true,
+  "updatedAt": {
+    "$date": "2022-09-18T22:49:57.235Z"
+  },
+  "createdAt": {
+    "$date": "2022-09-18T22:49:57.235Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6327a0a203371eabd4d8d42a"
+  },
+  "teacherId": {
+    "$oid": "632797d003371eabd4d8d3f3"
+  },
+  "subjectId": {
+    "$oid": "6327a00603371eabd4d8d424"
+  },
+  "studentId": {
+    "$oid": "63279cd903371eabd4d8d401"
+  },
+  "isActive": true,
+  "updatedAt": {
+    "$date": "2022-09-18T22:50:10.899Z"
+  },
+  "createdAt": {
+    "$date": "2022-09-18T22:50:10.899Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6327a0ad03371eabd4d8d42c"
+  },
+  "teacherId": {
+    "$oid": "632797d003371eabd4d8d3f3"
+  },
+  "subjectId": {
+    "$oid": "6327a00603371eabd4d8d424"
+  },
+  "studentId": {
+    "$oid": "63279cfd03371eabd4d8d404"
+  },
+  "isActive": true,
+  "updatedAt": {
+    "$date": "2022-09-18T22:50:21.165Z"
+  },
+  "createdAt": {
+    "$date": "2022-09-18T22:50:21.165Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6327a0b703371eabd4d8d42e"
+  },
+  "teacherId": {
+    "$oid": "632797d003371eabd4d8d3f3"
+  },
+  "subjectId": {
+    "$oid": "6327a00603371eabd4d8d424"
+  },
+  "studentId": {
+    "$oid": "63279d0c03371eabd4d8d407"
+  },
+  "isActive": true,
+  "updatedAt": {
+    "$date": "2022-09-18T22:50:31.942Z"
+  },
+  "createdAt": {
+    "$date": "2022-09-18T22:50:31.942Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6327a0c603371eabd4d8d430"
+  },
+  "teacherId": {
+    "$oid": "632797d003371eabd4d8d3f3"
+  },
+  "subjectId": {
+    "$oid": "6327a00603371eabd4d8d424"
+  },
+  "studentId": {
+    "$oid": "63279d1b03371eabd4d8d40a"
+  },
+  "isActive": true,
+  "updatedAt": {
+    "$date": "2022-09-18T22:50:46.121Z"
+  },
+  "createdAt": {
+    "$date": "2022-09-18T22:50:46.121Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6327a0d203371eabd4d8d432"
+  },
+  "teacherId": {
+    "$oid": "632797d003371eabd4d8d3f3"
+  },
+  "subjectId": {
+    "$oid": "6327a00603371eabd4d8d424"
+  },
+  "studentId": {
+    "$oid": "63279d2c03371eabd4d8d40d"
+  },
+  "isActive": true,
+  "updatedAt": {
+    "$date": "2022-09-18T22:50:58.381Z"
+  },
+  "createdAt": {
+    "$date": "2022-09-18T22:50:58.381Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6327a0dd03371eabd4d8d434"
+  },
+  "teacherId": {
+    "$oid": "632797d003371eabd4d8d3f3"
+  },
+  "subjectId": {
+    "$oid": "6327a00603371eabd4d8d424"
+  },
+  "studentId": {
+    "$oid": "63279d3f03371eabd4d8d410"
+  },
+  "isActive": true,
+  "updatedAt": {
+    "$date": "2022-09-18T22:51:09.411Z"
+  },
+  "createdAt": {
+    "$date": "2022-09-18T22:51:09.411Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6327a11303371eabd4d8d436"
+  },
+  "teacherId": {
+    "$oid": "6327999903371eabd4d8d3f6"
+  },
+  "subjectId": {
+    "$oid": "6327a01903371eabd4d8d426"
+  },
+  "studentId": {
+    "$oid": "63279cd903371eabd4d8d401"
+  },
+  "isActive": true,
+  "updatedAt": {
+    "$date": "2022-09-18T22:52:03.075Z"
+  },
+  "createdAt": {
+    "$date": "2022-09-18T22:52:03.075Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6327a12803371eabd4d8d438"
+  },
+  "teacherId": {
+    "$oid": "6327999903371eabd4d8d3f6"
+  },
+  "subjectId": {
+    "$oid": "6327a01903371eabd4d8d426"
+  },
+  "studentId": {
+    "$oid": "63279cfd03371eabd4d8d404"
+  },
+  "isActive": true,
+  "updatedAt": {
+    "$date": "2022-09-18T22:52:24.291Z"
+  },
+  "createdAt": {
+    "$date": "2022-09-18T22:52:24.292Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6327a13703371eabd4d8d43a"
+  },
+  "teacherId": {
+    "$oid": "6327999903371eabd4d8d3f6"
+  },
+  "subjectId": {
+    "$oid": "6327a01903371eabd4d8d426"
+  },
+  "studentId": {
+    "$oid": "63279d6503371eabd4d8d413"
+  },
+  "isActive": true,
+  "updatedAt": {
+    "$date": "2022-09-18T22:52:39.318Z"
+  },
+  "createdAt": {
+    "$date": "2022-09-18T22:52:39.318Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6327a14103371eabd4d8d43c"
+  },
+  "teacherId": {
+    "$oid": "6327999903371eabd4d8d3f6"
+  },
+  "subjectId": {
+    "$oid": "6327a01903371eabd4d8d426"
+  },
+  "studentId": {
+    "$oid": "63279d7303371eabd4d8d416"
+  },
+  "isActive": true,
+  "updatedAt": {
+    "$date": "2022-09-18T22:52:49.679Z"
+  },
+  "createdAt": {
+    "$date": "2022-09-18T22:52:49.679Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6327a14c03371eabd4d8d43e"
+  },
+  "teacherId": {
+    "$oid": "6327999903371eabd4d8d3f6"
+  },
+  "subjectId": {
+    "$oid": "6327a01903371eabd4d8d426"
+  },
+  "studentId": {
+    "$oid": "63279d8203371eabd4d8d419"
+  },
+  "isActive": true,
+  "updatedAt": {
+    "$date": "2022-09-18T22:53:00.023Z"
+  },
+  "createdAt": {
+    "$date": "2022-09-18T22:53:00.023Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6327a15503371eabd4d8d440"
+  },
+  "teacherId": {
+    "$oid": "6327999903371eabd4d8d3f6"
+  },
+  "subjectId": {
+    "$oid": "6327a01903371eabd4d8d426"
+  },
+  "studentId": {
+    "$oid": "63279d9203371eabd4d8d41c"
+  },
+  "isActive": true,
+  "updatedAt": {
+    "$date": "2022-09-18T22:53:09.468Z"
+  },
+  "createdAt": {
+    "$date": "2022-09-18T22:53:09.468Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6327a16003371eabd4d8d442"
+  },
+  "teacherId": {
+    "$oid": "6327999903371eabd4d8d3f6"
+  },
+  "subjectId": {
+    "$oid": "6327a01903371eabd4d8d426"
+  },
+  "studentId": {
+    "$oid": "63279d9f03371eabd4d8d41f"
+  },
+  "isActive": true,
+  "updatedAt": {
+    "$date": "2022-09-18T22:53:20.486Z"
+  },
+  "createdAt": {
+    "$date": "2022-09-18T22:53:20.486Z"
+  },
+  "__v": 0
+}]

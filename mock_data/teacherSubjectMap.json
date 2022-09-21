@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "6327a1a403371eabd4d8d444"
+  },
+  "teacherId": {
+    "$oid": "632797d003371eabd4d8d3f3"
+  },
+  "subjectId": {
+    "$oid": "6327a00603371eabd4d8d424"
+  },
+  "isActive": true,
+  "updatedAt": {
+    "$date": "2022-09-18T22:54:28.957Z"
+  },
+  "createdAt": {
+    "$date": "2022-09-18T22:54:28.957Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6327a1c303371eabd4d8d446"
+  },
+  "teacherId": {
+    "$oid": "6327999903371eabd4d8d3f6"
+  },
+  "subjectId": {
+    "$oid": "6327a01903371eabd4d8d426"
+  },
+  "isActive": true,
+  "updatedAt": {
+    "$date": "2022-09-18T22:54:59.072Z"
+  },
+  "createdAt": {
+    "$date": "2022-09-18T22:54:59.072Z"
+  },
+  "__v": 0
+}]

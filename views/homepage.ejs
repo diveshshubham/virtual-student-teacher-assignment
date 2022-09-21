@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Virtual-Class</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+  </head>
+  <body>
+    <h1>API for virtual class</h1>
+
+    <div class="container-fluid bg-3 text-center">
+      <h3>Steps to test APIs</h3>
+      <div class="row">
+        <div class="col-sm-4">
+          <p>
+            In this application there are two types of user - Teacher and student
+          </p>
+          <p>
+            When teacher creates assignment and he publishes it then every student of that particular teacher will be notified and the same assigment will be mapped to student id of student.
+          </p>
+          <p>
+            when teacher creates assignment and does not publishes it then it will automatically get published on it's start date as cron jobs will be running on server which will run twice a day to remind teacher for publishing assignment if not published , remind student to complete assignment before end date as well as auto publish assignment on its start date.
+          </p>
+          <p>A student can see only published assignments</p>
+          <p>
+            <strong>1.</strong> Open Postman
+          </p>
+          <p>
+            <strong>2.</strong> To register teacher - POST https://shubham-virtual-assignment.herokuapp.com/teacher/register  
+          </p>
+          <p>
+            <strong>3.</strong> To login teacher - POST https://shubham-virtual-assignment.herokuapp.com/teacher/login
+          </p>
+          <p>
+            <strong>4.</strong> To create assignment - POST https://shubham-virtual-assignment.herokuapp.com/teacher/assignment/createAssignment
+          </p>
+          <p>
+            <strong>5.</strong> To update assignment - PUT https://shubham-virtual-assignment.herokuapp.com/teacher/assignment/editAssignment/{assignmentId}
+          </p>
+          <p>
+            <strong>6.</strong> To Get Assignments by teacher with status - GET https://shubham-virtual-assignment.herokuapp.com/teacher/assignment/getAll?pageIndex=1&perPage=25&filter={your filter} (ONGOING , SCHEDULED)
+          </p>
+          <p>
+            <strong>7.</strong> To get assignment by its id - GET https://shubham-virtual-assignment.herokuapp.com/teacher/assignment/{assignment id}
+          </p>
+          <p>
+            <strong>8.</strong>To get assignment status by teacher - GET https://shubham-virtual-assignment.herokuapp.com/teacher/assignment/status/{assignmentId}?pageIndex=1&perPage=25&filter={filter} (PENDING, OVERDUE,SUBMITTED)
+          </p>
+          <p>
+            <strong>9.</strong>To get assignment status by teacher - GET https://shubham-virtual-assignment.herokuapp.com/teacher/assignment/status/{assignmentId}?pageIndex=1&perPage=25&filter={filter} (PENDING, OVERDUE,SUBMITTED)
+          </p>
+          <p>
+            <strong>9.</strong>To get assignment status by teacher - GET https://shubham-virtual-assignment.herokuapp.com/teacher/assignment/status/{assignmentId}?pageIndex=1&perPage=25&filter={filter} (PENDING, OVERDUE,SUBMITTED)
+          </p>
+          <p>
+            <strong>10.</strong>To register a student - POST https://shubham-virtual-assignment.herokuapp.com/student/register
+          </p>
+          <p>
+            <strong>11</strong>.</strong>To login student - POST https://shubham-virtual-assignment.herokuapp.com/student/login
+          </p>
+          <p>
+            <strong>12.</strong>To get assignment list by teacher id and subjectId - GET https://shubham-virtual-assignment.herokuapp.com/student/assignment/getAll/{teacherId}/{subjectId}?pageIndex=1&perPage=25&filter={filter}
+          </p>
+          <p>
+            <strong>13.</strong>To get assignment by its id - GET https://shubham-virtual-assignment.herokuapp.com/student/assignment/{assignmentId}
+          </p>
+          <p>
+            <strong>14.</strong>To get assignment status by student - GET https://shubham-virtual-assignment.herokuapp.com/student/myAssignments/status?pageIndex=1&perPage=25&filter={filter} (PENDING, SUBMITTED, OVERDUE)
+          </p>
+          <p>
+            <strong>15.</strong>To submit assignment by student - PUT https://shubham-virtual-assignment.herokuapp.com/student/assignment/{assignmentMapId}
+          </p>
+          <p>
+            <strong>APIs to be called by cron job from server</strong>
+          </p>
+          <p>
+            <strong>16.</strong>This endpoint will remind teacher for publishing assignment - GET https://shubham-virtual-assignment.herokuapp.com/notify/teacher/reminder
+          </p>
+          <p>
+            <strong>17.</strong>To auto publish assignment on scheduled date - GET https://shubham-virtual-assignment.herokuapp.com/notify/endDate
+          </p>
+          <p>
+            <strong>18.</strong>To remind student about end date - GET https://shubham-virtual-assignment.herokuapp.com/notify/endDate
+          </p>
+          <p>Refer mock_data folder in code's repository for sample data</p>
+          <P><strong>SEE POSTMAN COLLECTION HERE - </strong><a href="https://www.getpostman.com/collections/39739b711f3c0dade4a8" target="_blank">See POSTMAN COLLECTION Here 👈 </a></P>
+        </div>
+      </div>
+
+      
+    </div>
+    <!-- Messenger Chat Plugin Code -->
+  </body>
+</html>
